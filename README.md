@@ -4,6 +4,6 @@ For this project we will be exploring publicly available data from [LendingClub.
 
 We will use lending data from 2007-2010 and attempt to classify and predict whether or not the borrower paid back their loan in full. The csv provided has been cleaned of NA values. 
 
-4) Libraries used in this project are Pandas, Seaborn, Matplotlib and Scikit-learn. 
-5) 
-6) This project was done through Jose Portilla (head of Data Science at Pierian Data Inc.) on Udemy (Python for Data Science and Machine Learning Bootcamp).
+Libraries used in this project are Pandas, Seaborn, Matplotlib and Scikit-learn. 
+
+This project was done through Jose Portilla (head of Data Science at Pierian Data Inc.) on Udemy (Python for Data Science and Machine Learning Bootcamp).
